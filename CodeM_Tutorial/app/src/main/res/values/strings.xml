@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CodeM</string>
+    <string name="title_activity_about">About</string>
+    <string name="large_text">
+        "Formerly known as CSE Scholars, Code-M is one of the computer science clubs on campus."
+        "Network with companies, learn different skills, ship code and have fun with us!\n\n"
+        "What we do:\n"
+        "Corporate Events:\n"
+        "We have tons of tech talks and workshops from various companies."
+        "Come network with recruiters and learn new things from industry leaders."
+        "\nWorkshops and Project Teams:\n"
+        "Learn new skills in a stress-free environment."
+        "Join a project team and work on open-source projects while making new friends."
+        "\nSocial Events:\n"
+        "Kick back and relax with us! We have tons of fun social"
+        "events like game night, movie night and ice skating!"
+        "\nCode:Blue:\n"
+        "A day long tech event that lies somewhere between a TED talk and a developer confrence."
+        "Join us as we host companies and experienced professionals give"
+        "talks about what they do best."
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
